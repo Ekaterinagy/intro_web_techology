@@ -1,0 +1,18 @@
+html {
+    background-color: rgb(238, 221, 237);
+}
+p {
+    color:rgb(244, 8, 165);
+}
+h2 {
+    color: rgb(255, 0, 238);
+}
+a {
+    color: rgb(239, 17, 113);
+}
+.block {
+    width: 500px;
+    background-color: rgb(221, 22, 191);
+    border: 2px solid rgb(69, 41, 181);
+    padding: 20px 10px 20px 30px;
+}
